@@ -161,7 +161,7 @@ yat:
 
 # Page default value
 # defaults:
-  home:
+home:
     heading: "Chaochao's blog "
     subheading: "Wish u have a nice day!!!"
     banner: "Your image url"
